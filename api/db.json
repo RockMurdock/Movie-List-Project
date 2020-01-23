@@ -1,0 +1,35 @@
+{
+    "movies": [
+       {
+           "id": 1,
+           "title": "Shawshank Redemption",
+           "release date": "1994"
+       },
+       {
+           "id": 2,
+            "title":"Gladiator",
+            "release date": "2000"
+       },
+       {
+           "id": 3,
+           "title": "Saving Private Ryan",
+           "release date":"1998"
+       },
+       {
+           "id": 4,
+           "title":"Raiders of the Lost Ark",
+           "release date": "1981"
+       },
+       {
+           "id": 5,
+           "title": "Rocky",
+           "release date": "1976"
+       },
+       {
+           "id": 6,
+           "title": "Goodfellas",
+           "release date": "1990"
+       }
+
+    ]
+}
